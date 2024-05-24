@@ -15,6 +15,6 @@ public class DemoBootApplication {
 
     @GetMapping("/hello")
     public String hello() {
-        return "<h2> hello world! V-2 </h2>";
+        return "<h2> hello world! V-dockerhub </h2>";
     }
 }
